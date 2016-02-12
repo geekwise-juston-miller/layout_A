@@ -22,3 +22,50 @@ header{
     line-height:2em;
     background-color:chartreuse;
 }
+
+#box1{
+    width:90%;
+    height:10em;
+    margin:0 auto;
+    text-align: center;
+    background-color:lightcoral;
+    
+}
+
+article:nth-of-type(1){
+    position:relative;
+    width:auto;
+    padding:0 auto;
+    height:4em;
+    background-color:lightgray;
+    
+}
+
+article:nth-of-type(2
+){position:center;
+    width:auto;
+    padding:0 auto;
+    height: 4em;
+    background-color:grey;
+    
+}
+#box2{
+    width:90%;
+    height:10em;
+    margin:0 auto;
+    text-align:center;
+    background-color:yellow
+    
+}
+
+div{
+    width:90%;
+    height:1em;
+    margin:0 auto;
+    text-align: center;
+    background-color:aqua;
+}
+
+article:nth-of-type(3){
+    
+}
